@@ -13,5 +13,4 @@ HTML5, CSS3
 
 How to Run:
 
-Download or clone the repository
-Open index.html in any web browser
+Download or clone the repository, Open index.html in any web browser
